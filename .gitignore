@@ -1,5 +1,9 @@
 ### AL ###
 #Template for AL projects for Dynamics 365 Business Central
+# Node artifact files
+node_modules/
+dist/
+volumenes/
 #launch.json folder
 .vscode/
 #Cache folder
