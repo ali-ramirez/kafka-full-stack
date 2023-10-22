@@ -294,6 +294,8 @@ networks:
 volumes:
   zookeeper: {}
   kafka1: {}
+  kafka2: {}
+  kafka3: {}
   connectors: {}
   schema-registry: {}
   ksqldb-server: {}
